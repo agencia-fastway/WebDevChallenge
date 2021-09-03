@@ -63,7 +63,7 @@ Dentro de cada case deve conter a resposta ao cliente em um arquivo .txt, junto 
 ```
 gleisson@agenciafastway.com.br;
 felipe.henrique@agenciafastway.com.br; 
-
+lucas.mattos@agenciafastway.com.br;
 ```
 
 ## Licença
