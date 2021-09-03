@@ -28,15 +28,7 @@ Segue um print em anexo de como ele estava antes de ocorrer o erro.
 
 
 ## Desafio 3
-Além desse problema temos esse terceiro caso, a cerca de uma semana nós realizamos a compra de um novo dominio e ele foi criado no servidor de vocês.
-Porem não conseguimos visualizar o link ainda, você pode nos dizer se temos algum erro ou se falta algum passo em especifico?   
-O site apresenta a seguinte mensagem de erro 
-
-```bash
-DNS_PROBE_FINISHED_NXDOMAIN
-```
-
-Caso seja necessario a realização de alguma configuração de nossa parte, só passar pra gente por aqui. 
+Em um outro site estamos encontrando um problema em que um malware corrompeu o arquivo pages.php do nosso tema. A hospedagem passou que o mapa de páginas precisa ser refeito em php, foi inserido um modelo e ele deve ser replicado para cada arquivo de página existente além do index do site.
 ### Link: http://case3.challenge.agenciafastway.com/
 
 
